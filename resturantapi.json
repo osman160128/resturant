@@ -2,26 +2,31 @@
    {
     "name":"মিটা বাড়ি রেস্তোরা",
     "address":"আনোয়ারা, বাংলাদেশ",
-    "phone":"+880 1814-336915"
+    "phone":"+880 1814-336915",
+    "url":"gs://fast-e1b4a.appspot.com/resturant image/mitai resturant.jpg"  
    },
    {
     "name":"স্বপ্ন বিলাস রেস্টুরেন্ট",
     "address":"শরীফা ভবন , কালাবিবির দীঘি, আনোয়ারা, বাংলাদেশ",
-    "phone":"+880 1817-707699"
+    "phone":"+880 1817-707699",
+    "url":"gs://fast-e1b4a.appspot.com/resturant image/shopnobilas.jpg"  
    },
    {
     "name":"ভোজন বাড়ি",
     "address":"এবি ব্যাংকের বিপরীতে, ছাতোরী চৌমহুনি বাজার, আনোয়ারা,",
-    "phone":"+880 1718-006107"
+    "phone":"+880 1718-006107",
+    "url":"gs://fast-e1b4a.appspot.com/resturant image/BOJON BARI.jpg"  
    },
    {
     "name":"দেয়াঙ রেস্টুরেন্ট",
     "address":"KAFCO কোলনী,কমিউনিটি সেন্টার,আনোয়ারা",
-    "phone":"+880 1823-060606"
+    "phone":"+880 1823-060606",
+    "url":"gs://fast-e1b4a.appspot.com/resturant image/deang resturant.jpg"  
    },
    {
-    "name":"Tunnel Restaurant & Biriyani House",
+    "name":"টানেল রেস্তোরাঁ ও বিরিয়ানি হাউস",
     "address":"শরীফা ভবন , কালাবিবির দীঘি, আনোয়ারা, বাংলাদেশ",
-    "phone":"+880 1824-032004"
+    "phone":"+880 1824-032004",
+    "url":"gs://fast-e1b4a.appspot.com/resturant image/tanel.jpg"  
    }
 ]
